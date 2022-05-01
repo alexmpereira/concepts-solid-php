@@ -1,0 +1,18 @@
+{
+  "name": "alexpereira/sqlinjectionexample",
+  "description": "A sample application in PHP for realize invasion with SQL Injection",
+  "authors": [
+      {
+          "name": "Alex Pereira",
+          "email": "alexmpprog@gmail.com"
+      }
+  ],
+  "require": {
+      "php": "8.0.10"
+  },
+  "autoload": {
+    "psr-4": {
+        "App\\": "app/"
+    }
+  }
+}
